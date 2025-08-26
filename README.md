@@ -1,8 +1,5 @@
 ##  Hi there 👋 , I'm Keshav R
 
-<!--
-
-
 💡 **Data Analyst | Machine Learning & NLP Enthusiast**
 
 ---
