@@ -1,16 +1,34 @@
-## Hi there 👋
+##  Hi there 👋 , I'm Keshav R
 
 <!--
-**Kesh948/Kesh948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Data Analyst | Machine Learning & NLP Enthusiast**
+
+---
+
+## 🔹 About Me
+- Experienced in **data analysis, forecasting, NLP, and ML model deployment**.  
+- Skilled in **Python, SQL, Power BI, Tableau, DVC, GCP**.  
+- Passionate about extracting insights and building data-driven solutions.  
+
+---
+
+## 🔹 Featured Projects
+- 🛒 **Retail Sales Forecasting** — Built ARIMA/Prophet models and Power BI dashboards.  
+- 📉 **Customer Churn Prediction** — ML pipeline with clustering + classification.  
+- ✈️ **Flight Price Prediction** — Feature engineering & regression modeling. 
+
+---
+
+## 🔹 Skills
+**Languages:** Python, SQL  
+**Visualization:** Power BI, Tableau, Excel  
+**ML:** Scikit-learn, Prophet, ARIMA, Clustering, Classification  
+**Tools:** DVC, Git, BigQuery, GCP  
+
+---
+
+## 🔹 Contact
+📧 [rkeshav948@gmail.com](mailto:rkeshav948@gmail.com)  
+🐙 [GitHub](https://github.com/Kesh948)  
